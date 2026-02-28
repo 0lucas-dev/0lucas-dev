@@ -1,71 +1,110 @@
-
-# 👋 Olá, eu sou Lucas!
-
-💻 Desenvolvedor em formação  
-🚀 Focado em Back-end e Desenvolvimento Web  
-📚 Estudando Flask, PHP, JavaScript (ES6+) e Banco de Dados  
+<h1 align="center">Lucas V.</h1>
+<h3 align="center">Back-end Developer in Progress | Web Systems | API Design</h3>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Profile
 
-Sou apaixonado por tecnologia e desenvolvimento de sistemas.  
-Atualmente desenvolvo projetos como:
+Developer focused on **back-end engineering, system architecture and database modeling**.
 
-- 📘 Sistema escolar com login para alunos e professores  
-- 📦 Sistema de controle de estoque  
-- 🌐 API de conversão de moedas com Flask  
-- 🧩 Projetos web com HTML, CSS e JavaScript  
+Strong interest in building structured, scalable and maintainable applications using:
 
-Busco evoluir constantemente e transformar lógica em soluções reais.
+- RESTful APIs
+- Authentication systems
+- CRUD architectures
+- Database normalization
+- Clean code principles
 
----
-
-## 🛠️ Tecnologias que utilizo
-
-### 💻 Back-end
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🎨 Front-end
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄 Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+Currently improving problem-solving skills and algorithmic thinking.
 
 ---
 
-## 📈 Estatísticas
+## 🏗️ Technical Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+### 🔹 Back-end
+- Python (Flask)
+- PHP
+- REST API development
+- Authentication & session control
+- MVC structure
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+### 🔹 Front-end
+- HTML5 (semantic structure)
+- CSS3 (responsive design)
+- JavaScript ES6+
+- DOM manipulation
+- Async / Await
+- Fetch API
+
+### 🔹 Databases
+- MySQL
+- SQLite
+- Relational modeling
+- CRUD operations
+- Query optimization basics
 
 ---
 
-## 🚀 Objetivos
+## 🧩 Engineering Focus
 
-- 🔥 Me tornar desenvolvedor Back-end profissional  
-- 📦 Publicar projetos completos com deploy  
-- 🧠 Aprimorar arquitetura de sistemas  
-- 🏆 Participar de maratonas de programação  
-
----
-
-## 📫 Contato
-
-📧 Email: seuemail@email.com  
-💼 LinkedIn: https://linkedin.com/in/seuperfil  
+- System design fundamentals
+- Modular project organization
+- API integration
+- Data validation & security practices
+- Version control with Git
+- Structured project documentation
 
 ---
 
-⭐ Sempre buscando evoluir um commit de cada vez.
+## 📊 GitHub Metrics
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
+---
+
+## 🚀 Current Development Goals
+
+- Improve back-end architecture patterns
+- Strengthen database design skills
+- Deepen understanding of APIs
+- Advance in algorithmic problem solving
+- Deploy full-stack projects to production
+
+---
+
+## 📌 Highlighted Projects
+
+🔹 School Management System  
+Authentication system with role-based access (students & teachers), activity submission workflow and database integration.
+
+🔹 Inventory Control System  
+Product registration, stock management and structured CRUD operations.
+
+🔹 Currency Conversion API  
+Flask-based API consuming real exchange data with front-end integration.
+
+---
+
+## 📚 Continuous Learning
+
+- Software Engineering principles
+- Clean Architecture basics
+- REST standards
+- Performance and scalability fundamentals
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/SEU_USUARIO
+- LinkedIn: https://linkedin.com/in/SEU_PERFIL
+
+---
+
+> Building structured systems, one commit at a time.
 
 <td>
   <br />
