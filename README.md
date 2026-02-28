@@ -15,7 +15,7 @@
 Estudante de Analise Desenvolvimento de Sistemas na Unimar e Tecnico em Desenvolvimento de Sistemas pela ETEC
 
 📫 Contato: lucasvitorweb124@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/llucassouza-dev
+🔗 [LinkedIn](https://www.linkedin.com/in/0lucas-dev/)
 
 ## 🛠️ Stack Tecnológica
 
