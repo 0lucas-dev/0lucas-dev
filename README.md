@@ -35,10 +35,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</div>
 
 
-<div align="center">
+
+
 
 ### 📫 Conecte-se comigo
 
@@ -48,11 +48,6 @@
 </div>
 
 ---
-
-
-<td>
-  <img
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=0lucas-dev&theme=dark&hide_border=false"
-    alt="Github Stats"/>
-</td>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0lucas-dev&theme=dark&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+</div>
