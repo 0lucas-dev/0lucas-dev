@@ -58,7 +58,7 @@ Tenho como foco:
       alt="Github Stats"/>
   </td>
   
-<br>
+<br />
 
 ---
 
