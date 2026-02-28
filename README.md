@@ -52,8 +52,12 @@ Tenho como foco:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <td>
+    <img
+      align="left"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=0lucas-dev&theme=dark&hide_border=false"
+      alt="Github Stats"/>
+  </td>
 </div>
 
 ---
@@ -108,11 +112,4 @@ Consumo de API externa com integração front-end e organização REST.
 
 </div>
 
-<td>
-  <br />
-  <img
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=0lucas-dev&theme=dark&hide_border=false"
-    alt="Github Stats"
-  />
-</td>
+<
