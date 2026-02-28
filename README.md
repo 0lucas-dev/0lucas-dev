@@ -16,16 +16,6 @@
 📚 Evoluindo constantemente em **Node.js, C#, React e bancos relacionais**  
 🎯 Interesse em aplicações escaláveis, organizadas e bem documentadas  
 
-Tenho como foco:
-
-- Desenvolvimento de APIs REST  
-- Controle de autenticação e sessão  
-- Estruturação de CRUDs completos  
-- Modelagem relacional de banco de dados  
-- Código limpo e organizado  
-
----
-
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
@@ -47,40 +37,6 @@ Tenho como foco:
 
 </div>
 
----
-
-## 🏗️ Foco em Engenharia
-
-- Estruturação modular de projetos  
-- Arquitetura em camadas  
-- Organização de código escalável  
-- Integração entre front-end e back-end  
-- Versionamento com Git  
-- Boas práticas de segurança  
-
----
-
-## 🚀 Projetos em Destaque
-
-🔹 **Sistema Escolar**  
-Autenticação com níveis de acesso (aluno/professor), fluxo de atividades e integração com banco relacional.
-
-🔹 **Sistema de Controle de Estoque**  
-Cadastro, movimentação de produtos e lógica estruturada de inventário.
-
-🔹 **API de Conversão de Moedas**  
-Consumo de API externa com integração front-end e organização REST.
-
----
-
-## 🎯 Objetivos Atuais
-
-- Aprimorar padrões de arquitetura  
-- Evoluir em C# e ecossistema .NET  
-- Aprofundar em React + Tailwind  
-- Desenvolver sistemas completos com deploy  
-
----
 
 <div align="center">
 
