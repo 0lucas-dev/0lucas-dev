@@ -52,6 +52,7 @@ Tenho como foco:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <br/>
   <td>
     <img
       align="left"
