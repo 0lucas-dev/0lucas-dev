@@ -49,12 +49,6 @@
 
 ---
 
-<div align="center">
-  
-✨ Construindo sistemas sólidos, um commit por vez.
-
-</div>
-
 
 <td>
   <img
