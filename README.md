@@ -1,110 +1,110 @@
-<h1 align="center">Lucas V.</h1>
-<h3 align="center">Back-end Developer in Progress | Web Systems | API Design</h3>
+<div align="center">
+
+# 🚀 Lucas V.
+
+### Back-end Developer | Web Systems | API Engineering
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=Building+structured+systems;REST+API+Development;Database+Modeling;Clean+Code+Enthusiast" />
+
+</div>
 
 ---
 
-## 🧠 Profile
+## 🧠 About Me
 
-Developer focused on **back-end engineering, system architecture and database modeling**.
+💻 Developer focused on **back-end architecture and system design**  
+📚 Continuously improving in **Flask, PHP, JavaScript and Databases**  
+🎯 Interested in scalable applications and structured engineering  
 
-Strong interest in building structured, scalable and maintainable applications using:
+I build real-world systems applying:
 
-- RESTful APIs
-- Authentication systems
-- CRUD architectures
-- Database normalization
-- Clean code principles
-
-Currently improving problem-solving skills and algorithmic thinking.
+- RESTful architecture  
+- Authentication & session control  
+- Database normalization  
+- Clean and maintainable code  
 
 ---
 
-## 🏗️ Technical Stack
+## 🛠 Tech Stack
+
+<div align="center">
 
 ### 🔹 Back-end
-- Python (Flask)
-- PHP
-- REST API development
-- Authentication & session control
-- MVC structure
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🔹 Front-end
-- HTML5 (semantic structure)
-- CSS3 (responsive design)
-- JavaScript ES6+
-- DOM manipulation
-- Async / Await
-- Fetch API
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔹 Databases
-- MySQL
-- SQLite
-- Relational modeling
-- CRUD operations
-- Query optimization basics
+### 🔹 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
 
 ---
 
-## 🧩 Engineering Focus
+## 📊 GitHub Analytics
 
-- System design fundamentals
-- Modular project organization
-- API integration
-- Data validation & security practices
-- Version control with Git
-- Structured project documentation
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-## 📊 GitHub Metrics
+## 🏗 Engineering Focus
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Current Development Goals
-
-- Improve back-end architecture patterns
-- Strengthen database design skills
-- Deepen understanding of APIs
-- Advance in algorithmic problem solving
-- Deploy full-stack projects to production
+- Modular system architecture  
+- REST API development  
+- Authentication flows  
+- Database modeling  
+- CRUD structure  
+- Version control with Git  
 
 ---
 
-## 📌 Highlighted Projects
+## 🚀 Highlight Projects
 
-🔹 School Management System  
-Authentication system with role-based access (students & teachers), activity submission workflow and database integration.
+🔹 **School Management System**  
+Role-based authentication (students & teachers), activity workflow and relational database integration.
 
-🔹 Inventory Control System  
-Product registration, stock management and structured CRUD operations.
+🔹 **Inventory Control System**  
+Product lifecycle management with structured CRUD and stock logic.
 
-🔹 Currency Conversion API  
-Flask-based API consuming real exchange data with front-end integration.
-
----
-
-## 📚 Continuous Learning
-
-- Software Engineering principles
-- Clean Architecture basics
-- REST standards
-- Performance and scalability fundamentals
+🔹 **Currency Conversion API**  
+Flask API consuming external exchange data with front-end integration.
 
 ---
 
-## 📫 Contact
+## 📈 Current Goals
 
-- GitHub: https://github.com/SEU_USUARIO
-- LinkedIn: https://linkedin.com/in/SEU_PERFIL
+- Improve back-end architecture patterns  
+- Advance in algorithmic problem solving  
+- Deploy full-stack systems  
+- Study scalability fundamentals  
 
 ---
 
-> Building structured systems, one commit at a time.
+<div align="center">
+
+### 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+
+</div>
+
+---
+
+<div align="center">
+  
+> "Engineering structured systems, one commit at a time."
+
+</div>
 
 <td>
   <br />
