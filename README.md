@@ -49,20 +49,6 @@ Tenho como foco:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-  <td>
-    <img
-      align="left"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=0lucas-dev&theme=dark&hide_border=false"
-      alt="Github Stats"/>
-    <br />
-  </td>
-  
-<br />
-
----
-
 ## 🏗️ Foco em Engenharia
 
 - Estruturação modular de projetos  
@@ -112,3 +98,11 @@ Consumo de API externa com integração front-end e organização REST.
 ✨ Construindo sistemas sólidos, um commit por vez.
 
 </div>
+
+
+<td>
+  <img
+    align="left"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=0lucas-dev&theme=dark&hide_border=false"
+    alt="Github Stats"/>
+</td>
