@@ -1,10 +1,10 @@
 <div align="center">
-
+  
 #  Lucas Vitor Souza
 
-### Engenharia de Software
+<br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1500&color=F70000&width=600&lines=Seja+bem-vindo+ao+meu+reposit%C3%B3rio.;Engenheiro+de+Software+Fullstack." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=2000&color=12F744&width=707&height=60&lines=Seja+bem-vindo+ao+meu+reposit%C3%B3rio.;Engenheiro+de+Software+Fullstack." alt="Typing SVG" /></a>
 
 </div>
 
