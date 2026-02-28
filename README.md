@@ -10,11 +10,12 @@
 
 ---
 
-## 🧠 Sobre Mim
+### Olá! Eu sou o Lucas
 
-💻 Desenvolvedor focado em **arquitetura back-end e modelagem de sistemas**  
-📚 Evoluindo constantemente em **Node.js, C#, React e bancos relacionais**  
-🎯 Interesse em aplicações escaláveis, organizadas e bem documentadas  
+Estudante de Analise Desenvolvimento de Sistemas na Unimar e Tecnico em Desenvolvimento de Sistemas pela ETEC
+
+📫 Contato: lucasvitorweb124@email.com  
+🔗 LinkedIn: www.linkedin.com/in/llucassouza-dev
 
 ## 🛠️ Stack Tecnológica
 
@@ -35,17 +36,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-
-
-
-
-### 📫 Conecte-se comigo
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-
-</div>
 
 ---
 <div align="center">
