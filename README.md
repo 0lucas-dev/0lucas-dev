@@ -1,5 +1,4 @@
 <table>
-  <tr>
     <td>
       <br />
       <img
@@ -8,5 +7,4 @@
         alt="Github Stats"
       />
     </td>
-  </tr>
 </table>
