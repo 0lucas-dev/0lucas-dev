@@ -2,9 +2,9 @@
 
 #  Lucas Vitor Souza
 
-### Desenvolvedor Back-end | Web Systems | Engenharia de Software
+### Engenharia de Software
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Construindo+sistemas+estruturados;Desenvolvimento+de+APIs+REST;Modelagem+de+Banco+de+Dados;Foco+em+arquitetura+e+clean+code" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1500&color=F70000&width=600&lines=Seja+bem-vindo+ao+meu+reposit%C3%B3rio.;Engenheiro+de+Software+Fullstack." alt="Typing SVG" /></a>
 
 </div>
 
