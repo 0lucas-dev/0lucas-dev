@@ -52,7 +52,7 @@ Tenho como foco:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <br/>
+ 
   <td>
     <img
       align="left"
@@ -60,6 +60,7 @@ Tenho como foco:
       alt="Github Stats"/>
   </td>
 </div>
+<br/>
 
 ---
 
