@@ -12,7 +12,7 @@
 
 ### Olá! Eu sou o Lucas
 
-Estudante de Analise Desenvolvimento de Sistemas na Unimar e Tecnico em Desenvolvimento de Sistemas pela ETEC
+Estudante de Analise e Desenvolvimento de Sistemas na Unimar e Tecnico em Desenvolvimento de Sistemas pela ETEC
 
 📫 Contato: lucasvitorweb124@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/0lucas-dev/)
